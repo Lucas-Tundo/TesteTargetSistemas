@@ -1,0 +1,14 @@
+E:\projetos C#\Teste\TesteTarget\bin\Debug\net9.0\TesteTarget.exe
+E:\projetos C#\Teste\TesteTarget\bin\Debug\net9.0\TesteTarget.deps.json
+E:\projetos C#\Teste\TesteTarget\bin\Debug\net9.0\TesteTarget.runtimeconfig.json
+E:\projetos C#\Teste\TesteTarget\bin\Debug\net9.0\TesteTarget.dll
+E:\projetos C#\Teste\TesteTarget\bin\Debug\net9.0\TesteTarget.pdb
+E:\projetos C#\Teste\TesteTarget\obj\Debug\net9.0\TesteTarget.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos C#\Teste\TesteTarget\obj\Debug\net9.0\TesteTarget.AssemblyInfoInputs.cache
+E:\projetos C#\Teste\TesteTarget\obj\Debug\net9.0\TesteTarget.AssemblyInfo.cs
+E:\projetos C#\Teste\TesteTarget\obj\Debug\net9.0\TesteTarget.csproj.CoreCompileInputs.cache
+E:\projetos C#\Teste\TesteTarget\obj\Debug\net9.0\TesteTarget.dll
+E:\projetos C#\Teste\TesteTarget\obj\Debug\net9.0\refint\TesteTarget.dll
+E:\projetos C#\Teste\TesteTarget\obj\Debug\net9.0\TesteTarget.pdb
+E:\projetos C#\Teste\TesteTarget\obj\Debug\net9.0\TesteTarget.genruntimeconfig.cache
+E:\projetos C#\Teste\TesteTarget\obj\Debug\net9.0\ref\TesteTarget.dll
