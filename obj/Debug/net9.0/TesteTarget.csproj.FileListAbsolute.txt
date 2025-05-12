@@ -12,3 +12,4 @@ E:\projetos C#\Teste\TesteTarget\obj\Debug\net9.0\refint\TesteTarget.dll
 E:\projetos C#\Teste\TesteTarget\obj\Debug\net9.0\TesteTarget.pdb
 E:\projetos C#\Teste\TesteTarget\obj\Debug\net9.0\TesteTarget.genruntimeconfig.cache
 E:\projetos C#\Teste\TesteTarget\obj\Debug\net9.0\ref\TesteTarget.dll
+E:\projetos C#\Teste\TesteTarget\obj\Debug\net9.0\TesteTarget.sourcelink.json

@@ -1,7 +1,7 @@
 ﻿using System;
 
 class Program {
-    static void Main() {
+    public static void Main() {
 
         //Exercicio 1
         int Indice = 13, Soma = 0, K = 0;
@@ -15,7 +15,8 @@ class Program {
         Console.WriteLine($"------------------------");
 
         //Exercicio 2
-        int numero = 21;
+        Console.WriteLine("2) Digite um número inteiro para saber se ele pertence à sequência de Fibonacci ou não: ");
+        int numero = int.Parse(Console.ReadLine());
         int a = 0, b = 1;
         bool pertence = false;
 
@@ -30,8 +31,10 @@ class Program {
         }
 
         Console.WriteLine($"2) O número {numero} {(pertence ? "pertence" : "não pertence")} à sequência de Fibonacci.");
-        Console.WriteLine($"-------------------------------------------------");
-        
+        Console.WriteLine($"-----------------------------------------------------");
+
         //Exercicio 3
+        
     }
 }
+
